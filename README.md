@@ -13,5 +13,5 @@ Watch this video to set up this code:
 4. Now run the bot using `node .` command.
 
 # Credit
-Creator: [sparks.js].<br/>
+Creator: sparks.js.<br/>
 Youtube Channel [Sparks]([https://www.youtube.com/channel/UCwsiWQMSomXFjWWpRQbc35A](https://www.youtube.com/channel/UCKri-qBHhE30VYH3Dcu3oVw)) 
